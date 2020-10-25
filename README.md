@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezzineog&label=Profile%20views&color=0e75b6&style=flat" alt="ezzineog" /> </p>
 
-<p align="left"> <a href="https://twitter.com/uta_tn" target="blank"><img src="https://img.shields.io/twitter/follow/uta_tn?logo=twitter&style=for-the-badge" alt="uta_tn" /></a> </p>
+<p align="left"> <a href="https://twitter.com/uta_tn" target="blank"><img src="https://img.shields.io/twitter/follow/EzzineOg?logo=twitter&style=for-the-badge" alt="uta_tn" /></a> </p>
 
 - 🔭 I’m currently working on **Project**
 
